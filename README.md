@@ -1,5 +1,3 @@
-# Datadog Serverless Workshop 2024
-
 # Datadog's Serverless Observability on AWS Workshop
 
 ## Abstract
